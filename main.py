@@ -4,7 +4,7 @@ from decompiler import decompile
 
 
 def print_decompiler_usage() -> None:
-	print("chip8.py input.chip8 output.code8")
+	print("chip8.py input.ch8 output.cd8")
 	print_decompiler_usage()
 
 
